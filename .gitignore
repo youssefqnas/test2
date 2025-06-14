@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/
+.env
+fly.toml  # عادة ما يتم إنشاء هذا الملف بواسطة fly launch ويمكن إضافته إلى .gitignore إذا كنت لا تريد تتبعه
